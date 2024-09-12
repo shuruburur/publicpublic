@@ -1,0 +1,16 @@
+E:\Версия 1\Versionn 1\Versionn 1\bin\Debug\net8.0-windows\Versionn 1.exe
+E:\Версия 1\Versionn 1\Versionn 1\bin\Debug\net8.0-windows\Versionn 1.deps.json
+E:\Версия 1\Versionn 1\Versionn 1\bin\Debug\net8.0-windows\Versionn 1.runtimeconfig.json
+E:\Версия 1\Versionn 1\Versionn 1\bin\Debug\net8.0-windows\Versionn 1.dll
+E:\Версия 1\Versionn 1\Versionn 1\bin\Debug\net8.0-windows\Versionn 1.pdb
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn_1.Form1.resources
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.csproj.GenerateResource.cache
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.AssemblyInfoInputs.cache
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.AssemblyInfo.cs
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.csproj.CoreCompileInputs.cache
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.dll
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\refint\Versionn 1.dll
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.pdb
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\Versionn 1.genruntimeconfig.cache
+E:\Версия 1\Versionn 1\Versionn 1\obj\Debug\net8.0-windows\ref\Versionn 1.dll
