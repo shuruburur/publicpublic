@@ -1,0 +1,33 @@
+E:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.exe
+E:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.deps.json
+E:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.runtimeconfig.json
+E:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.dll
+E:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.pdb
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version_2.Form1.resources
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.csproj.GenerateResource.cache
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.AssemblyInfoInputs.cache
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.AssemblyInfo.cs
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.csproj.CoreCompileInputs.cache
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.dll
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\refint\Version 2.dll
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.pdb
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.genruntimeconfig.cache
+E:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\ref\Version 2.dll
+F:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.exe
+F:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.deps.json
+F:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.runtimeconfig.json
+F:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.dll
+F:\Версия 2\Version 2\Version 2\bin\Debug\net8.0-windows\Version 2.pdb
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version_2.Form1.resources
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.csproj.GenerateResource.cache
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.AssemblyInfoInputs.cache
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.AssemblyInfo.cs
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.csproj.CoreCompileInputs.cache
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.dll
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\refint\Version 2.dll
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.pdb
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version 2.genruntimeconfig.cache
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\ref\Version 2.dll
+F:\Версия 2\Version 2\Version 2\obj\Debug\net8.0-windows\Version_2.Properties.Resources.resources
