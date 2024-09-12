@@ -1,0 +1,16 @@
+F:\версия 3\github\github\bin\Debug\net8.0-windows\github.exe
+F:\версия 3\github\github\bin\Debug\net8.0-windows\github.deps.json
+F:\версия 3\github\github\bin\Debug\net8.0-windows\github.runtimeconfig.json
+F:\версия 3\github\github\bin\Debug\net8.0-windows\github.dll
+F:\версия 3\github\github\bin\Debug\net8.0-windows\github.pdb
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.Form1.resources
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.csproj.GenerateResource.cache
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.GeneratedMSBuildEditorConfig.editorconfig
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.AssemblyInfoInputs.cache
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.AssemblyInfo.cs
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.csproj.CoreCompileInputs.cache
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.dll
+F:\версия 3\github\github\obj\Debug\net8.0-windows\refint\github.dll
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.pdb
+F:\версия 3\github\github\obj\Debug\net8.0-windows\github.genruntimeconfig.cache
+F:\версия 3\github\github\obj\Debug\net8.0-windows\ref\github.dll
